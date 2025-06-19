@@ -1,6 +1,6 @@
-# Anzen: Password Manager with Email 2FA
+# Password Manager with Email 2FA
 
-**Anzen** is a secure and user-friendly password management application developed using the MERN stack (MongoDB, Express.js, React, Node.js). This application aims to securely store and manage user passwords with added protection through email-based two-factor authentication (2FA).
+**Pasword Manager** is a secure and user-friendly password management application developed using the MERN stack (MongoDB, Express.js, React, Node.js). This application aims to securely store and manage user passwords with added protection through email-based two-factor authentication (2FA).
 
 ## Table of Contents
 
